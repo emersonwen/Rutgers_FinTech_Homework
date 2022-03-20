@@ -1,6 +1,6 @@
 ___
 
-![#ComplyAdvantage](assets\ComplyAdvantage-2019-DeepPurple-Stacked.jpg)
+![#ComplyAdvantage](\Week-One-Homework\assets\ComplyAdvantage-2019-DeepPurple-Stacked.jpg)
 ## Regulation Technology Company Combating Financial Crime
 
 | [Overview](#overview-and-origin) | [Business Activities](#business-activities) | [Landscape](#landscape) | [Results](#results) | [Recommendations](#recommendations) |
@@ -15,7 +15,7 @@ ___
 
 The company is currently a Series C with total investment funding of =108.2 million US dollars=, according to CrunchBase.com's profile of the company. The notable investors in the Series C round include Goldman Sachs Asset Management, Ontario Teacher's Pension Plan Board, Index Ventures, and Balderton Capital. (*[Source](https://www.crunchbase.com/organization/comply-advantage/company_financials)*) 
 
-![Charles Delingpole](assets\Charles_Delingpole_Head_shot.jpg)
+![Charles Delingpole](\Week-One-Homework\assets\Charles_Delingpole_Head_shot.jpg)
 
 <ins>Charles Delingpol, Founder of ComplyAdvantage</ins>
 
